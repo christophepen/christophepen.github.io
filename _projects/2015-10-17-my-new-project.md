@@ -1,9 +1,10 @@
 ---
 layout: project
 cover: ""
-published: false
+published: true
 title: my new project
 ---
+
 
 ## A New Post
 
