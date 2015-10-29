@@ -1,6 +1,6 @@
 ---
 layout: project
-cover: /media/running for what.jpg
+cover: ""
 published: true
 title: Inspiration
 ---
