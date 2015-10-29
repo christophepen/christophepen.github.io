@@ -1,9 +1,10 @@
 ---
 layout: project
-cover: ""
+cover: /media/running for what.jpg
 published: true
 title: Inspiration
 ---
+
 
 ## A New Post 
 **Interesting...![running for what.jpg]({{site.baseurl}}/media/running for what.jpg)
