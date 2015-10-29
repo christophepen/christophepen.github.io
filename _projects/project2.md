@@ -1,9 +1,10 @@
 ---
 layout: project
 title: Cityhall
-cover: /media/dessin4.jpg
+cover: ""
 published: true
 ---
+
 
 ![2.jpg]({{site.baseurl}}/media/2.jpg)
 ![3.jpg]({{site.baseurl}}/media/3.jpg)
